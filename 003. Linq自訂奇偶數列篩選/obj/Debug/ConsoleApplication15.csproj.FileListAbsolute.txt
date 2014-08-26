@@ -1,0 +1,12 @@
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\Tommy\Documents\Visual Studio 2012\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選\obj\Debug\ConsoleApplication15.exe
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選\obj\Debug\ConsoleApplication15.pdb
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選\bin\Debug\ConsoleApplication15.exe
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選\bin\Debug\ConsoleApplication15.pdb
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選(C#)\obj\Debug\ConsoleApplication15.exe
+C:\Users\Tommy\Desktop\example\014. Linq自訂奇偶數列篩選(C#)\obj\Debug\ConsoleApplication15.pdb

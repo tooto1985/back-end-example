@@ -1,0 +1,10 @@
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\bin\Debug\testtest.exe
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\bin\Debug\testtest.pdb
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\obj\Debug\testtest.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\obj\Debug\testtest.Form1.resources
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\obj\Debug\testtest.Properties.Resources.resources
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\obj\Debug\testtest.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\obj\Debug\testtest.exe
+C:\Users\Tommy\Desktop\testtest\testtest\testtest\obj\Debug\testtest.pdb
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\testtest\testtest\obj\Debug\testtest.exe
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\testtest\testtest\obj\Debug\testtest.pdb

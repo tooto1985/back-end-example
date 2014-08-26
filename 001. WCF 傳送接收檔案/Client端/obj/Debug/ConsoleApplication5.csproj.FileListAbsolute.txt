@@ -1,0 +1,9 @@
+c:\users\tommy\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\tommy\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\tommy\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\tommy\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\tommy\documents\visual studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Tommy\Desktop\範例\1. WCF 傳送接收檔案\Client端\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Tommy\Desktop\範例\1. WCF 傳送接收檔案\Client端\obj\Debug\ConsoleApplication5.exe
+C:\Users\Tommy\Desktop\範例\1. WCF 傳送接收檔案\Client端\obj\Debug\ConsoleApplication5.pdb

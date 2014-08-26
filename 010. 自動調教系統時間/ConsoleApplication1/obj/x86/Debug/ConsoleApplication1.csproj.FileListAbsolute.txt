@@ -1,0 +1,10 @@
+C:\Documents and Settings\瑋瑩\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\瑋瑩\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\瑋瑩\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\瑋瑩\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\瑋瑩\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\瑋瑩\桌面\test\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\瑋瑩\桌面\test\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\瑋瑩\桌面\test\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\瑋瑩\桌面\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\瑋瑩\桌面\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

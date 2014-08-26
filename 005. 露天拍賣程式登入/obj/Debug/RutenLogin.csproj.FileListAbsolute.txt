@@ -1,0 +1,16 @@
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\obj\Debug\testtest.exe
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\obj\Debug\testtest.pdb
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\bin\Debug\testtest.exe
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\bin\Debug\testtest.pdb
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\obj\Debug\RutenLogin.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\obj\Debug\testtest.Form1.resources
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\obj\Debug\testtest.Properties.Resources.resources
+C:\Users\Tommy\Desktop\露天拍賣程式登入(C#)\obj\Debug\RutenLogin.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\obj\Debug\RutenLogin.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\obj\Debug\testtest.Form1.resources
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\obj\Debug\RutenLogin.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\bin\Debug\RutenLogin.exe
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\bin\Debug\RutenLogin.pdb
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\obj\Debug\RutenLogin.Properties.Resources.resources
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\obj\Debug\RutenLogin.exe
+C:\Users\Tommy\Desktop\example\018. 露天拍賣程式登入(C#)\obj\Debug\RutenLogin.pdb
